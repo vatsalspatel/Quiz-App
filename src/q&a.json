@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "How many Infinity Stones are there?",
+            "options": [
+                3,
+                5,
+                6,
+                10
+            ],
+            "answer": 6
+        },
+        {
+            "question": "What is the only food that cannot go bad?",
+            "options": [
+                "Dark chocolate",
+                "Peanut butter",
+                "Canned tuna",
+                "Honey"
+            ],
+            "answer": "Honey"
+        },
+        {
+            "question": "Which was René Magritte’s first surrealist painting?",
+            "options": [
+                "Not to Be Reproduced",
+                "Personal Values",
+                "The Lovers",
+                "The Lost Jockey"
+            ],
+            "answer": "The Lost Jockey"
+        },
+        {
+            "question": "What 90s boy band member bought Myspace in 2011?",
+            "options": [
+                "Nick Lachey",
+                "Justin Timberlake",
+                "Shawn Stockman",
+                "AJ McLean"
+            ],
+            "answer": "Justin Timberlake"
+        },
+        {
+            "question": "What is the most visited tourist attraction in the world?",
+            "options": [
+                "Eiffel Tower",
+                "Statue of Liberty",
+                "Great Wall of China",
+                "Colosseum"
+            ],
+            "answer": "Eiffel Tower"
+        },
+        {
+            "question": "What’s the name of Hagrid’s pet spider?",
+            "options": [
+                "Nigini",
+                "Crookshanks",
+                "Aragog",
+                "Mosag"
+            ],
+            "answer": "Aragog"
+        },
+        {
+            "question": "What’s the heaviest organ in the human body?",
+            "options": [
+                "Brain",
+                "Liver",
+                "Skin",
+                "Heart"
+            ],
+            "answer": "Liver"
+        },
+        {
+            "question": "Who made the third most 3-pointers in the Playoffs in NBA history?",
+            "options": [
+                "Kevin Durant",
+                "JJ Reddick",
+                "Lebron James",
+                "Kyle Korver"
+            ],
+            "answer": "Lebron James"
+        },
+        {
+            "question": "Which of these EU countries does not use the euro as its currency?",
+            "options": [
+                "Poland",
+                "Denmark",
+                "Sweden",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which US city is the sunniest major city and sees more than 320 sunny days each year?",
+            "options": [
+                "Phoenix",
+                "Miami",
+                "San Francisco",
+                "Austin"
+            ],
+            "answer": "Phoenix"
+        }
+    ]
+}
